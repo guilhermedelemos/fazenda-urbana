@@ -1,2 +1,2 @@
 # fazenda-urbana
-Cultivo de legumes e verduras em ambiente urbano
+Cultivo de legumes e verduras em ambiente urbano.
