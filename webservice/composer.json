@@ -1,0 +1,14 @@
+{
+    "name"        : "fazendaurbana",
+    "description" : "Fazenda Urbana",
+    "require" : {
+        "php": "^7.0"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "fazendaurbana\\" : "src",
+            "fazendaurbana\\controller\\" : "src/controller",
+            "fazendaurbana\\model\\" : "src/model"
+        }
+    }
+}
