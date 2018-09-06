@@ -2,10 +2,23 @@
 Cultivo de legumes e verduras em ambiente urbano.
 
 ## Aquaponia
-Cultivo de verduras usando água e peixes.
+Cultivo de verduras usando ï¿½gua e peixes.
 
 ### Software
-Software para gestão de sistemas de aquaponia.
+Software para gestï¿½o de sistemas de aquaponia.
 
 ### Leitura recomendada
 https://www.embrapa.br/busca-de-noticias/-/noticia/2767622/integrar-criacao-de-peixes-com-hortalicas-economiza-90-de-agua-e-elimina-quimicos
+
+## Projetos
+
+### arduino
+
+### webapp
+
+### webservice
+Executar com o servidor php embutido
+
+php -S localhost:8000
+
+Acesse o endereÃ§o http://localhost:8000 pelo navegador.
